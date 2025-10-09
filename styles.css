@@ -70,6 +70,7 @@ landing {
   background-position: center; 
   background-repeat: no-repeat; 
   padding: 200px;
+  min-height: 100dvh;
 }
 
 SC {
@@ -285,3 +286,4 @@ footer p {
     margin: 0;
     font-size: 14px;
 }
+
